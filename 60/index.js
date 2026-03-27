@@ -24,8 +24,3 @@ console.log(b.concat(a,  " Gautam" , " is a good boy"));
 console.log(b.replace("Y", "J")); // only the first occurance will be replaced
 console.log(b.replace("YashU", "Gautam"));
 console.log(b.trim()); // removes whitespace from both ends
-
-
-
-
-
